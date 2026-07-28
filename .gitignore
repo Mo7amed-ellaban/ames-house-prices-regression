@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.venv/
+venv/
+env/
+
+# Kaggle data
+train.csv
+test.csv
+sample_submission.csv
+
+# Outputs
+submission.csv
+*.pkl
+*.joblib
+
+# Operating System
+.DS_Store
+Thumbs.db
