@@ -83,9 +83,9 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 | Cross Validation RMSE | **0.12294** |
 | Kaggle Public Score | **0.12738** |
 
-Leaderboard Position:
+Current Kaggle Rank:
 
-**1602**
+**1560**
 
 ---
 
