@@ -1,2 +1,114 @@
-# ames-house-prices-regression
-End-to-end machine learning project for predicting house prices using feature engineering, CatBoost, and Optuna hyperparameter optimization.
+# 🏠 Ames House Prices Prediction
+
+End-to-end Machine Learning project for predicting house prices using the Ames Housing Dataset.
+
+## 📌 Project Overview
+
+This project focuses on building a high-performance regression model to predict house sale prices.
+
+The workflow includes:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Feature Encoding
+- Baseline Modeling
+- Model Comparison
+- Hyperparameter Optimization using Optuna
+- Final Kaggle Submission
+
+---
+
+## 📊 Dataset
+
+- Competition: House Prices - Advanced Regression Techniques
+- Platform: Kaggle
+
+Dataset:
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+---
+
+## 🛠 Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- CatBoost
+- XGBoost
+- LightGBM
+- Optuna
+- Seaborn
+- Matplotlib
+- YData Profiling
+
+---
+
+## ⚙ Workflow
+
+1. Data Cleaning
+2. Missing Value Handling
+3. Feature Engineering
+4. Feature Encoding
+5. Baseline Random Forest Model
+6. Feature Importance Analysis
+7. Model Comparison
+8. Hyperparameter Tuning (Optuna)
+9. Final CatBoost Model
+10. Kaggle Submission
+
+---
+
+## 📈 Models
+
+| Model | CV RMSE |
+|--------|---------|
+| Random Forest (Baseline) | 0.14088 |
+| XGBoost | 0.12703 |
+| LightGBM | 0.13855 |
+| CatBoost | 0.12564 |
+| CatBoost + Optuna | **0.12294** |
+
+---
+
+## 🏆 Kaggle Result
+
+| Metric | Score |
+|--------|------:|
+| Cross Validation RMSE | **0.12294** |
+| Kaggle Public Score | **0.12738** |
+
+Leaderboard Position:
+
+**1602**
+
+---
+
+## 📂 Repository Structure
+
+```
+├── Ames_House_Prices.ipynb
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Ensemble Models
+- Stacking
+- Feature Selection
+- Advanced Feature Engineering
+
+---
+
+## 👨‍💻 Author
+
+Mohamed Ehab Ellaban
+
+Faculty of Engineering – Mansoura University
+
+Artificial Intelligence Department
