@@ -1,4 +1,8 @@
 # 🏠 Ames House Prices Prediction
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![CatBoost](https://img.shields.io/badge/CatBoost-Regressor-yellow)
+![Kaggle](https://img.shields.io/badge/Kaggle-House_Prices-20BEFF)
 
 End-to-end Machine Learning project for predicting house prices using the Ames Housing Dataset.
 
