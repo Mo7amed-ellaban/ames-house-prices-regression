@@ -111,8 +111,11 @@ Leaderboard Position:
 
 ## 👨‍💻 Author
 
-Mohamed Ehab Ellaban
+**Mohamed Ehab Ellaban**
 
 Faculty of Engineering – Mansoura University
 
 Artificial Intelligence Department
+
+🔗 LinkedIn:
+[https://www.linkedin.com/in/adel-sobhy-4b97a12aa/](https://www.linkedin.com/in/mohamed-ellaban-a5726a344/)
