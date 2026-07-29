@@ -75,11 +75,6 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 | CatBoost + Optuna | **0.12294** |
 
 ---
-## 📊 Feature Importance
-
-<p align="center">
-  <img src="images/feature_importance.png" width="800">
-</p>
 
 ## 🏆 Kaggle Result
 
